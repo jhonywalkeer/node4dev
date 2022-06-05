@@ -1,0 +1,16 @@
+# Fora do VI 
+[credential]
+  helper = 
+[user]
+  name = 
+  password =
+[push]
+  followTags = true
+[core]
+# flag --wait faz com que o VScode espere as alterações antes de iniciar
+  editor = code --wait  
+[alias]
+ s = !git status -s
+ c = !git add --all && git commit -m
+ # Ao rodar o comando Git l será apresentado a hash reduzida, commit, autor e data reduzida
+ l = !git log --pretty=format:'%C(blue)%h%C(red)%d %C(white)%s - %C(cyan)%cn, %C(green)%cr'
