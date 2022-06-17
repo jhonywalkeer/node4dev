@@ -5,6 +5,7 @@
   },
   "plugins": ["prettier"],
   "rules": {
-    "prettier/prettier": "error"
+    "prettier/prettier": "error",
+    "@typescript-eslint/strict-boolen-expressions": "off"
   }
 }
