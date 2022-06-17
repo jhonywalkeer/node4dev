@@ -2,7 +2,7 @@
     <img width="50%"  alt="Node4Devs Logo" title="Node4Devs Logo" src="../readme/assets/images/nodefourdevs-logo.png" />
 </h1>
 
-This course will demonstrate in practice how to create an API in NodeJs using Typescript, MongoDb=B and following the best methodologies on the market. This content is focused on advanced and relevant content such as: Design Patterns, Clean Architecture, SOLID, DDD and TDD. The main objective of this training is to make the student leave his comfort zone and see that there are many things to be studied to become a technical leader or a software architect.
+This course will demonstrate in practice how to create an API in NodeJs using Typescript, MongoDB and following the best methodologies on the market. This content is focused on advanced and relevant content such as: Design Patterns, Clean Architecture, SOLID, DDD and TDD. The main objective of this training is to make the student leave his comfort zone and see that there are many things to be studied to become a technical leader or a software architect.
 
 The project is to create a complete API with Login, Registration, Poll Creation, Poll List, Respond to a Poll and Poll Result.
 
