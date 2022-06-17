@@ -10,6 +10,6 @@ Let's talk about the correct use of middleware for managing permissions in route
 
 | Course                                                   | Start Date | End Date | End Date  |
 | -------------------------------------------------------- | ---------- | -------- | --------- |
-| NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID | 2022/06    | -        | View Repo |
+| NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID | 2022/06    | -        | [View Repo](https://github.com/jhonywalkeer/node4dev/tree/main/node4devs) |
 
 </div>
